@@ -3,7 +3,7 @@
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
       "version": "3.12"
-    },
-    "postStartCommand": "pip install crewai crewai-tools"
-  }
+    }
+  },
+  "postStartCommand": "pip install crewai crewai-tools"
 }
